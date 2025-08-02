@@ -1,2 +1,2 @@
 # github-tutorial1
-# This i sfirst git repository
+# This is first git repository
